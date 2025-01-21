@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/vaibhavgil/Documents/Stuttgart/sem 2/SSE/exercise/testing-python-exercise-wt2425/.venv/bin/python3" "$0" "$@"
+'''exec' "/Users/vaibhavgil/Documents/Stuttgart/sem 2/SSE/exercise/python-exercise/testing-python-exercise-wt2425/.venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
